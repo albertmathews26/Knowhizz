@@ -1,0 +1,30 @@
+.heading{display: inline-flex;
+    color:black ;
+    padding-top: 2rem;
+    
+}
+.adjust{
+    margin-right: 4rem;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.text-center {
+    text-align: center;
+}
+
+
+.padding{padding-top: 8rem;
+    padding-left: 12rem;
+    padding-right: 12rem;
+    padding-bottom: 8rem;
+}
+.head{
+    color: #e0940a;
+}

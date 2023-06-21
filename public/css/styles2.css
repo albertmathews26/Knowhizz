@@ -1,0 +1,139 @@
+.img{
+    width: 25%;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #1C40FF, #0D9AFF, #3679DC);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+   margin-left: 3rem;
+   margin-right: 3rem;
+   border-radius: 3rem 3rem 16rem 3rem;
+   padding: 20px;
+   
+}
+.text{
+position: absolute;
+margin-right: 20%;
+}
+.gap-2{
+    padding-top: 3rem;
+}
+.img2{
+    padding-left: 40%;
+}
+.logo{
+    display: inline-flex;
+}
+.h1{padding-top: 1rem;
+    display: inline;
+    margin-left: 0;
+    color: black;
+    
+}
+.head{
+    color: #e0940a;
+}
+.he1 p{
+    padding-top:1.5rem;
+}
+.he1{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 2rem;
+}
+p{    size: 3rem;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.he2{
+    display: flex;
+}
+.container1{padding-top: 4rem;
+    margin-left: 14rem;
+    display: flex;
+    gap: 10rem;
+    padding-bottom: 8rem;
+}
+.img-1{padding-left: 2.5rem;
+
+}
+.img-2{padding-left: 1.2rem;
+         
+}
+.img-3{padding-left: 2rem;
+    padding-top: 2.3rem;
+}
+
+.gradient-background1{
+    background: linear-gradient(300deg, #1C40FF, #0D9AFF, #3679DC);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+   margin-left: 6rem;
+   margin-top: 6rem;
+   margin-bottom: 6rem;
+   margin-right: 6rem;
+   border-radius: 16rem 3rem 16rem 3rem;
+   padding: 20px;
+   
+}
+.gradient-background2{
+    background: linear-gradient(300deg, #1C40FF, #0D9AFF, #3679DC);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+ 
+   
+}
+
+.text1{
+    color: white;
+}
+.text2{padding-top: 3rem;
+
+    color: white;
+}
+.btm-btn{
+   margin-left:7.5rem;
+}
+#title2{
+    margin-bottom: 4rem;
+}
+
+.container2{
+    margin-left: 13rem;
+    display: flex;
+    gap: 10rem;
+    padding-bottom: 4rem;
+}
+.footer-sec img{padding-top: 4rem;
+    width: 80%;
+    align-content: center;
+    padding-bottom: 4rem;
+}
+h5{
+    color: white;
+}
+
+
+.footer-sec2{padding-top: 10.5rem;
+    text-align: center;
+    margin-right: 20rem;
+padding-bottom: 4rem;
+}
+
+.p-foot{
+    padding-top: 0.5rem
+    
+}
+
+.new{padding-top: 2rem;
+    color: white;
+}
+.img5{
+    width: 30rem;
+}
+.color{
+    color: #e0940a
+}
